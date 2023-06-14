@@ -1,0 +1,295 @@
+.container{
+	width: 1410px;
+	margin: 0 auto;
+	
+
+
+}
+#head{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 60px;
+	margin-top: 55px;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 55px;
+}
+li{
+	display: inline-block;
+	margin-right: 81px;
+}
+.firago{
+
+width: 115px;
+height: 34px;
+
+font-family: 'FiraGO';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+
+color: #4E6FAE;
+}
+.s1{
+	margin-bottom: 50px;
+	margin-top: 44px;
+}
+.num{
+	width: 50px;
+	height: 50px;
+	background:#5012D5;
+	color: #84FF81;
+	padding: 10px;
+	margin-bottom:22px;
+}
+#num{
+
+	width: 31px;
+	height: 34px;
+
+	font-family: 'Helvetica';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+
+	color: #84FF81;
+
+
+}
+.month{
+	width: 119px;
+height: 34px;
+
+font-family: 'BPG Nino Mkhedruli';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
+
+color: #8D81FF;
+
+}
+.txt{
+	width: 578px;
+height: 34px;
+
+font-family: "ALK Rounded Nusx Med", sans-serif;
+color: #4E6FAE;
+margin-top: 7px;
+margin-bottom: 14px;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: block;
+
+}
+.textpic{
+	vertical-align: top;
+	margin-right: 66px;
+	display: inline-block;
+}
+.text{
+	width: 778px;
+	height: 353px;
+
+	font-family: "BPG Square", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #4E6FAE;
+	display: inline-block;
+
+	vertical-align: top;
+}
+.s2{
+	margin-top:93px;
+}
+.s3{
+	margin-top: 155px;
+}
+#imgs3{
+	margin-top: 14px;
+}
+#s3{
+	margin-top: 33px;
+	width: 1021px;
+	height: 148px;
+
+	font-family: "BPG Nostalgia", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #4E6FAE;
+
+}
+.container2{
+	width: 1052px;
+	height: 462px;
+	margin: 0 auto;
+	
+}
+.news{
+	margin-bottom: 80px;
+}
+#s4{
+	margin-top: 120px;
+}
+.stick{
+	width: 2px;
+	height: 30px;
+	background-color: blue;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 17px;
+}
+#news{
+	display: inline-block;
+	width: 150px;
+	height: 34px;
+
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+
+	color: #4E6FAE;
+	vertical-align: middle;
+
+}
+#news2{
+	position: absolute;
+	width: 484px;
+	height: 34px;
+
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 31px;
+
+	color: #4E6FAE;
+	display: inline-block;
+	vertical-align: middle;
+}
+.card{
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	margin-top: 26px;
+	margin-right: 45px;
+	display: inline-block;
+	vertical-align:bottom;
+	
+}
+.card2{
+	width: 500px;
+	height: 192px;
+	display: inline-block;	
+	background: #E7E7E7;
+	vertical-align:bottom;
+	
+}
+img{
+	display: inline-block;
+}
+
+#cardtxt{
+	margin-left: 23px;
+	height: 23px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 23px;
+	margin-top: 21px;
+
+	color: #3F4145;
+
+}
+.cardimg{
+	margin-left: 36px;
+	margin-right: 20px;
+	margin-top: 30px;
+	vertical-align: top;
+}
+.cardtext{
+	display: inline-block;
+	width: 335px;
+height: 95px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #7E8898;
+vertical-align: top;
+margin-top: 30px;
+
+}
+
+#contactS{
+
+	width: 1660px;
+	height: 735px;
+	background: #E7E7E7;
+}
+
+.contactinfo{
+	width: 500px;
+	height: 250px;
+	margin-top: 90px;
+	display: inline-block;
+	vertical-align: top;
+}
+#cth2{
+	width: 474px;
+height: 34px;
+
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+
+color: #4E6FAE;
+margin-bottom: 20px;
+}
+.cth4{
+	width: 307px;
+height: 24px;
+
+font-family: 'Helvetica Neue LT GEO';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #7E8898;
+
+}
+span{
+	color: black;
+}
+.map{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 90px;
+	margin-left: 40px;
+}
+footer{
+	margin-top: 90px;
+}
